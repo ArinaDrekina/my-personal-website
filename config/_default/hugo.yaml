@@ -49,6 +49,8 @@ imaging:
   resampleFilter: lanczos
   quality: 90
   anchor: smart
+  formats: ["jpg", "png", "webp"]
+  bgColor: "#ffffff"
   hint: picture
 timeout: 600000
 taxonomies:
